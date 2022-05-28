@@ -1,1 +1,1 @@
-# wojwozniak.github.io
+[Check out my projects!](wojwozniak.github.io)

@@ -1,1 +1,1 @@
-<a href="wojwozniak.github.io">Check out my projects!</a>
+<a href="https://wojwozniak.github.io/">Check out my projects!</a>

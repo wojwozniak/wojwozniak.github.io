@@ -48,3 +48,8 @@ li {
     min-height: 80%;
     padding: 50px;
 }
+
+.about {
+    font-size: 16px;
+    margin-top: 2px;
+}

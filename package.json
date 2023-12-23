@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "npx tailwindcss build styles.css -o output.css"
   },
   "keywords": [],
-  "author": ""
+  "author": "",
+  "dependencies": {
+    "tailwindcss": "^3.4.0"
+  }
 }
